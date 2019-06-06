@@ -10,7 +10,7 @@
     "dev-server": "webpack-dev-server --open --config webpack.dev.js"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "babel-cli": "6.26.0",
